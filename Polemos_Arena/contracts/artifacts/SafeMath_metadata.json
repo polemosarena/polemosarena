@@ -1,0 +1,39 @@
+{
+	"compiler": {
+		"version": "0.5.17+commit.d19bba13"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"details": "Unsigned math operations with safety checks that revert on error",
+			"methods": {},
+			"title": "SafeMath"
+		},
+		"userdoc": {
+			"methods": {}
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/PolemosArena.sol": "SafeMath"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"optimizer": {
+			"enabled": true,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/PolemosArena.sol": {
+			"keccak256": "0x14fe729c0310b35e2dd4a3fb84e34bdd1a64eba25f888d85bf7c7b508197d38f",
+			"urls": [
+				"bzz-raw://bb5cad9549b97b485ea48fcdfec59362096778418afa0952ada03036dad5809a",
+				"dweb:/ipfs/QmXrTqNQZxXmHUv7jNYuGRn4bimMbbu4AAVABoevVmFsAe"
+			]
+		}
+	},
+	"version": 1
+}
